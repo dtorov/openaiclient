@@ -1,0 +1,23 @@
+{
+  "name": "openaiclient",
+  "version": "1.0.0",
+  "description": "openaiclient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtorov/openaiclient.git"
+  },
+  "author": "dtorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtorov/openaiclient/issues"
+  },
+  "homepage": "https://github.com/dtorov/openaiclient#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
